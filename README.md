@@ -22,10 +22,14 @@ A browser extension that fixes the text direction of mathematical formulas (KaTe
 
 ### Firefox
 
+1. Download directly from mozila addons [chatgpt-math-dir-resolver-on-firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-math-dir-resolver/)
+
+or
+
 1. Download the latest release: [chatgpt-math-dir-resolver)-v1.0.xpi](https://github.com/miladniroee/chatgpt-math-dir-resolver/releases)
 2. Open Firefox and go to `about:addons`
 3. Click the gear icon ⚙️ > **Install Add-on From File**
-4. Select the downloaded `.xpi` file
+4. Select the downloaded `.zip` file
 
 ## Usage
 
